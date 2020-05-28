@@ -2,7 +2,7 @@ To help you with the exercise, you can use the [redux-immutable-state-invariant]
 
 ## What does this do? 
 
-It will check if you try to modify your redux state
+It will check if you try to modify your redux state and give you errors
 
 ## How to set it up? 
 
